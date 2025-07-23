@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignorar arquivos de modelo gerados
+*.joblib
+
 # C extensions
 *.so
 
